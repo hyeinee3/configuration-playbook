@@ -1,5 +1,5 @@
 ---
-- hosts: groups 
+- hosts: groupstest 
   gather_facts: False
   become: true
   roles:
